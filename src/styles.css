@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.counter {
+  width: 50%;
+  margin: auto;
+  border: 1px solid lightgray;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.common {
+  padding: 5px;
+  margin: 5px;
+  background: transparent;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.common.cross {
+  width: 25px;
+}
+
+p.value {
+  font-size: 30px;
+  margin: 0;
+}
+.buttons {
+}
+button.common:hover {
+  background: lightgray;
+  border: 1px solid black;
+}

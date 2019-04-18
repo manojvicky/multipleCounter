@@ -1,2 +1,0 @@
-# multipleCounter
-Created with CodeSandbox
